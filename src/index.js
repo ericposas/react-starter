@@ -6,7 +6,7 @@ import {MyComponent} from './components/MyComponent.jsx';
 let destination = $('#container')[0];
 
 ReactDOM.render(
-  <MyComponent title="Title goes here">
+  <MyComponent title="My Title for MyComponent">
     Test
   </MyComponent>,
   destination
